@@ -8,6 +8,6 @@
 
 ---
 
-[<img src="https://assets.turbologo.com/blog/en/2019/10/19084944/youtube-logo-illustration.jpg" width="100"/>](https://youtube.com/playlist?list=PLhDT50eG3h3STKqb6iqMnJRGDCn0jrHKf) - Text goes here
+[<img src="https://assets.turbologo.com/blog/en/2019/10/19084944/youtube-logo-illustration.jpg" width="100"/>](https://youtube.com/playlist?list=PLhDT50eG3h3STKqb6iqMnJRGDCn0jrHKf) - YouTube Playlist
 
 ---
