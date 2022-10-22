@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/lab-logo-vector-design_16734-26.jpg?size=338&ext=jpg" />
-</p>
+<div align="center"><img width="100%" alt="Lab Setup" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/d54dd22397ae80044dd195d4677c4424f55dc435/assets/labsetup.png"></div>
+
 
 <p align="center">
     Click on the icons to visit the links next to the description provided or copy and paste the links provided in brackets.

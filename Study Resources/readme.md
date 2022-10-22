@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://www.pngkey.com/png/detail/246-2464980_it-solutions-1-cyber-security-cyber-security-logo.png" />
-</p>
+<div align="center"><img width="100%" alt="Study Resources" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/d54dd22397ae80044dd195d4677c4424f55dc435/assets/studyresources.png
+"></div>
+
 
 <p align="center">
     Description goes here
