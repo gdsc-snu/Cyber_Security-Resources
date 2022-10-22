@@ -1,5 +1,4 @@
-<div align="center"><img width="100%" alt="Study Resources" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/d54dd22397ae80044dd195d4677c4424f55dc435/assets/studyresources.png
-"></div>
+<div align="center"><img width="100%" alt="Study Resources" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/8c15b9a71a21ed3791e9bdb7a2909ef9fc59a155/assets/studyresources.png"></div>
 
 
 <p align="center">
