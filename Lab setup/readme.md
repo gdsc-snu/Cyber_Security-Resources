@@ -12,24 +12,46 @@
 <div align="left"><h3>» Operating System </h3></div>
 <p>There are different security testing operating system which you can choose from, some are debian based, some are arch based. It really comes down to your choice which one you want, but as a beginner going with debian is the way to go.</p>
 
+
+
 - **[Kali Linux](https://www.kali.org)** - Probably the most known penetration testing distro out there. A great option as a beginner as if you are just starting out. 
 
   >You can find the kali linux documentation [here](https://www.kali.org/docs/).
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/kalilinux-screenshot.jpg"></div>
 
 
 - **[Parrot Security Linux](https://www.parrotsec.org/)** - Another great option if you already know some stuff inside a linux system or penetration testing distro in that matter. 
   >You can find the parrot security documentation [here](https://www.parrotsec.org/docs/).
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/parrotsecurity-screenshot.png"></div>
 
 
 - **[Black Arch](https://blackarch.org/index.html)** - This operating system is based upon Arch linux, or often known as elite hacking distro in a sarcastic way, apart from jokes, this distro covers a wide range of security testing tools out there which can help you out in your journey for cybersecurity. 
   >You can find the black arch documentation [here](https://blackarch.org/guide.html).
-
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/blackarch-screenshot.png"></div>
+  
+  
 - **[Fedora Security Lab](https://labs.fedoraproject.org/security/)** - An operating system based upon fedora linux, which provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing.
   >You can find the fedora security lab documentation [here](https://fedoraproject.org/wiki/Security_Lab).
-
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/fedorasecuritylab-screenshot.png"></div>
+  
+  
 - **[BackBox](https://www.backbox.org/)** - This ubuntu based distro is a penetration testing and security assessment oriented Linux distribution providing a network and systems analysis toolkit.
   >You can find the backbox documentation [here](https://wiki.backbox.org/).
-
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/backbox-screenshot.png"></div>
+  
+  
 - **[wifislax](https://www.wifislax.com/)** - Slackware based distro.
   >You can find the wifislax documentation [here](https://www.wifislax.com/).
-
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/wifislax-screenshot.png"></div>
