@@ -5,7 +5,7 @@
 
 <p>Lab setup is a crucial part of studying cybersecurity, since you will be doing most of your testing on this isolated environment without the fear to harm anyone unethically, in this evironment you will be working inside a NAT network where you will have access to all the vulnerable machines/boxes. You can test and hone your skills on those machines/boxes</p>
 
-<p> But staying inside this lab environment won't help you keep up with the constantly changing technologies, for that there's something called **CTF** or often known as Capture the Flag, where you will have a remote vulnerable machine which you will have to attack and get the flag inside that specific machine, there are many websites where you can play CTFs. 
+<p> But staying inside this lab environment won't help you keep up with the constantly changing technologies, for that there's something called CTF or often known as Capture the Flag, where you will have a remote vulnerable machine which you will have to attack and get the flag inside that specific machine, there are many websites where you can play CTFs.</p>
 
 <div align="left"><h2>Initial Lab Setup</h2></div>
 
