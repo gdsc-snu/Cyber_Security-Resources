@@ -1,19 +1,35 @@
 <div align="center"><img width="100%" alt="Lab Setup" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/d54dd22397ae80044dd195d4677c4424f55dc435/assets/labsetup.png"></div>
 
 
-<p align="center">
-    Click on the icons to visit the links next to the description provided or copy and paste the links provided in brackets.
-</p>
+<div align="left"><h2>Lab Setup</h2></div>
 
-[<img src="https://mpng.subpng.com/20180320/jbq/kisspng-computer-icons-command-line-interface-linux-system-command-line-icon-vector-5ab10e747fd445.0902485515215530125236.jpg" width="100"/>](https://www.mediacollege.com/linux/command/linux-command.html) - Linux commands. (https://www.mediacollege.com/linux/command/linux-command.html)
+<p>Lab setup is a crucial part of studying cybersecurity, since you will be doing most of your testing on this isolated environment without the fear to harm anyone unethically, in this evironment you will be working inside a NAT network where you will have access to all the vulnerable machines/boxes. You can test and hone your skills on those machines/boxes</p>
 
-[<img src="https://mpng.subpng.com/20180320/jbq/kisspng-computer-icons-command-line-interface-linux-system-command-line-icon-vector-5ab10e747fd445.0902485515215530125236.jpg" width="100"/>](https://explainshell.com/) - Information about a particular linux command. (https://explainshell.com/)
+<p> But staying inside this lab environment won't help you keep up with the constantly changing technologies, for that there's something called **CTF** or often known as Capture the Flag, where you will have a remote vulnerable machine which you will have to attack and get the flag inside that specific machine, there are many websites where you can play CTFs. 
 
-[<img src="https://ih1.redbubble.net/image.452180693.4771/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg" width="80"/>](https://sourceforge.net/projects/metasploitable/) - Metasploit Machine Download (https://sourceforge.net/projects/metasploitable/)
+<div align="left"><h2>Initial Lab Setup</h2></div>
 
-[<img src="https://i0.wp.com/www.clamtech.com/wp-content/uploads/2018/05/VMWare-Logo.jpg" width="80"/>](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - VMware Download (https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+<div align="left"><h3>» Operating System </h3></div>
+<p>There are different security testing operating system which you can choose from, some are debian based, some are arch based. It really comes down to your choice which one you want, but as a beginner going with debian is the way to go.</p>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/7-Zip_Logo.jpg" width="80"/>](https://www.7-zip.org/) - 7-Zip Download: Extraction of Files for Windows (https://www.7-zip.org/)
+- **[Kali Linux](https://www.kali.org)** - Probably the most known penetration testing distro out there. A great option as a beginner as if you are just starting out. 
+
+  >You can find the kali linux documentation [here](https://www.kali.org/docs/).
 
 
-[<img src="https://ih1.redbubble.net/image.330661976.3438/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" width="80"/>](https://zsecurity.org/download-custom-kali) - Kali Linux Download (https://zsecurity.org/download-custom-kali)
+- **[Parrot Security Linux](https://www.parrotsec.org/)** - Another great option if you already know some stuff inside a linux system or penetration testing distro in that matter. 
+  >You can find the parrot security documentation [here](https://www.parrotsec.org/docs/).
+
+
+- **[Black Arch](https://blackarch.org/index.html)** - This operating system is based upon Arch linux, or often known as elite hacking distro in a sarcastic way, apart from jokes, this distro covers a wide range of security testing tools out there which can help you out in your journey for cybersecurity. 
+  >You can find the black arch documentation [here](https://blackarch.org/guide.html).
+
+- **[Fedora Security Lab](https://labs.fedoraproject.org/security/)** - An operating system based upon fedora linux, which provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing.
+  >You can find the fedora security lab documentation [here](https://fedoraproject.org/wiki/Security_Lab).
+
+- **[BackBox](https://www.backbox.org/)** - This ubuntu based distro is a penetration testing and security assessment oriented Linux distribution providing a network and systems analysis toolkit.
+  >You can find the backbox documentation [here](https://wiki.backbox.org/).
+
+- **[wifislax](https://www.wifislax.com/)** - Slackware based distro.
+  >You can find the wifislax documentation [here](https://www.wifislax.com/).
+
