@@ -87,27 +87,27 @@
   >You can find the metasploitable documentation [here](https://docs.rapid7.com/metasploit/metasploitable-2/)
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="Metasploitable" src=""></div>
+  <div align="center"><img width="100%" alt="Metasploitable" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/readme-revamp/assets/Vulnerable-Boxes-screenshots/metasploitable-screenshot.png"></div>
 
 - **[bWAPP](https://www.mmebvba.com/sites/bwapp/download.htm)** - bWAPP, or a buggy web application, is a free and open source deliberately insecure web application.It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities.bWAPP prepares one to conduct successful penetration testing and ethical hacking projects. It has over 100 web vulnerabilities. 
   >You can find the bWAPP documentation [here](https://www.mmebvba.com/sites/bwapp/index.htm).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="bWAPP" src=""></div>
+  <div align="center"><img width="100%" alt="bWAPP" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/fd0dccbd9cd7305632e9a31933dfcfe6e00cac52/assets/Vulnerable-Boxes-screenshots/bwapp-screenshot.png"></div>
 
 - **[DVNA](https://github.com/appsecco/dvna)** - Damn Vulnerable NodeJS Application (DVNA) is a simple NodeJS application to demonstrate OWASP Top 10 Vulnerabilities and guide on fixing and avoiding these vulnerabilities.
   >You can find the DVNA documentation [here](https://appsecco.com/books/dvna-developers-security-guide/).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width"100%" alt="DVNA" src=""></div>
+  <div align="center"><img width"100%" alt="DVNA" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/readme-revamp/assets/Vulnerable-Boxes-screenshots/dvna-screenshot.jpg"></div>
 
 - **[OWASP Juice shop](https://owasp.org/www-project-juice-shop/)** - OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications.
   >You can find the OWASP juice shop documenatation [here](https://pwning.owasp-juice.shop/).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="Owasp juiceshop" src=""></div>
+  <div align="center"><img width="100%" alt="Owasp juiceshop" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/readme-revamp/assets/Vulnerable-Boxes-screenshots/owaspjuiceshop-screenshot.png"></div>
 
 - **[Vulnhub](https://www.vulnhub.com/)** - VulnHub provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration. Mostly you can find a lot more vulnerable boxes in this website which you can simply download and test. 
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="vulnhub" src=""></div>
+  <div align="center"><img width="100%" alt="vulnhub" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/readme-revamp/assets/Vulnerable-Boxes-screenshots/vulnhub-screenshot.png"></div>
