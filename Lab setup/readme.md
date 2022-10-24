@@ -17,19 +17,19 @@
   >You can find the vmware workstation documentation [here](https://www.vmware.com/support/pubs/).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="VMware workstation" src=""></div>
+  <div align="center"><img width="100%" alt="VMware workstation" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/962db72f3dc7630e7dbbba4db2fb29364bd5df9d/assets/Virtualization-Software-Screenshots/VMwareworkstation-screenshot.png"></div>
 
 - **[VMware player](https://www.vmware.com/in/products/workstation-player.html)** - VMware Player is an ideal utility for running a single virtual machine on a Windows or Linux PC.
   >You can find the vmware player documentation [here](https://docs.vmware.com/en/VMware-Workstation-Player/index.html).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="Vmware player" src=""></div>
+  <div align="center"><img width="100%" alt="Vmware player" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/962db72f3dc7630e7dbbba4db2fb29364bd5df9d/assets/Virtualization-Software-Screenshots/VMwareplayer-screenshot.png"></div>
 
 - **[Oracle Virtual Box](https://www.virtualbox.org/)** - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. [NOTE - Make sure you download and install the extension pack]
   >You can find the virtual box documentation [here](https://www.virtualbox.org/wiki/Documentation).
   <details>
   <summary>Screenshot</summary>
-  <div align="center"><img width="100%" alt="oracle virtual box" src=""></div>
+  <div align="center"><img width="100%" alt="oracle virtual box" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/962db72f3dc7630e7dbbba4db2fb29364bd5df9d/assets/Virtualization-Software-Screenshots/Orcalevirtualbox-screenshot.png"></div>
 
 <div align="left"><h3>» Operating System </h3></div>
 
