@@ -9,7 +9,30 @@
 
 <div align="left"><h2>Initial Lab Setup</h2></div>
 
+
+<div align="left"><h3>» Virtualization Software </h3></div>
+<p>Even before choosing which operating system you want to use, you have choose which virtualization software you want to go with. Incase you hearing first time, Virtualization software will help you run a different OS than your host OS virtually. Now there are different ones that you can go for, most popular choice is vmware and vbox, but one is paid and one is free, you can techincally use vmware player which is somewhat free but it really comes down to preference. 
+
+- **[VMware Workstation](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)** - VMware Workstation Pro lets you run multiple operating systems as virtual machines (including Windows VMs) on a single windows or Linux PC.
+  >You can find the vmware workstation documentation [here](https://www.vmware.com/support/pubs/).
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="VMware workstation" src=""></div>
+
+- **[VMware player](https://www.vmware.com/in/products/workstation-player.html)** - VMware Player is an ideal utility for running a single virtual machine on a Windows or Linux PC.
+  >You can find the vmware player documentation [here](https://docs.vmware.com/en/VMware-Workstation-Player/index.html).
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="Vmware player" src=""></div>
+
+- **[Oracle Virtual Box](https://www.virtualbox.org/)** - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. [NOTE - Make sure you download and install the extension pack]
+  >You can find the virtual box documentation [here](https://www.virtualbox.org/wiki/Documentation).
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="oracle virtual box" src=""></div>
+
 <div align="left"><h3>» Operating System </h3></div>
+
 <p>There are different security testing operating system which you can choose from, some are debian based, some are arch based. It really comes down to your choice which one you want, but as a beginner going with debian is the way to go.</p>
 
 
@@ -55,3 +78,14 @@
   <details>
   <summary>Screenshot</summary>
   <div align="center"><img width="100%" alt="kali linux" src="https://github.com/elli0t43/Cyber-Security-Resources/blob/ab46af0bd50050bd408698c2070beca3a5d319f8/assets/wifislax-screenshot.png"></div>
+
+
+<div align="left"><h3>» Vulnerable Machine </h3></div>
+<p>Once you have the distro you want to use, you can proceed to the next step. Vulnerable machines will help you understand the basic and beginner stuff in the field of cybersecurity, these machines will give you a test environment to test your skills and even hone it.</p>
+
+- **[Metasploitable](https://sourceforge.net/projects/metasploitable/)** - Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques. The default login and password is  `msfadmin:msfadmin`.
+  >You can find the metasploitable documentation [here](https://docs.rapid7.com/metasploit/metasploitable-2/)
+  <details>
+  <summary>Screenshot</summary>
+  <div align="center"><img width="100%" alt="Metasploitable" src=""></div>
+
